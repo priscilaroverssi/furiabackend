@@ -69,14 +69,4 @@ Cada arquivo aqui define um conjunto de rotas para lidar com diferentes funciona
 * Estrutura modular de rotas
 * Integração com frontend React (FURIA Fan Experience)
 
----
 
-## ✨ Sugestão de Expansão Futuras
-
-* Adicionar logs de atividade do usuário
-* Criar rotas de estatísticas dos fãs
-* Incluir autenticação por redes sociais adicionais (Ex: Twitter, Twitch)
-
----
-
-Se quiser, posso adaptar esse conteúdo direto no seu README do repositório ou criar um arquivo separado só para a pasta `routes`. Deseja isso?
